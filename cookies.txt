@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tag.azame.net	TRUE	/	FALSE	1999999999	tcu	OWS3SLYLH7SQPX8L
+tag.azame.net	TRUE	/	FALSE	1999999999	SameSite	None
+
